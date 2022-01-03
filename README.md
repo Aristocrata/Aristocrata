@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aristocrata 
 - 👀 I’m interested in ...Aprender
 - 🌱 I’m currently learning ...Web Programming with Python and JavaScript
-- 💞️ I’m looking to collaborate on ...Front end
+- 💞️ I’m looking to collaborate on ...Back-end
 - 📫 How to reach me ..
 
 <!---
